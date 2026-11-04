@@ -116,7 +116,7 @@ The final evaluation used 50,000 sampled training records and 10,000 sampled tes
 
 ### Open in Google Colab
 
-[Open `Machine_Learning.ipynb` in Google Colab](https://colab.research.google.com/github/subhdeep/Netflix-Network-Traffic-Classification/blob/main/Machine_Learning.ipynb)
+[Open `Machine_Learning.ipynb` in Google Colab](https://colab.research.google.com/github/subhdeeep/Netflix-Network-Traffic-Classification/blob/main/Machine_Learning.ipynb)
 
 ## Future improvements
 
