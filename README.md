@@ -5,7 +5,6 @@ A machine learning project that classifies packet-level protocol labels in a Net
 > **Academic project** — Brainware University  
 > **Course:** BCA · **Semester:** 5th · **Subject:** Machine Learning  
 > **Submitted by:** Subhadip Mudi  
-> **Submitted to:** Riyanka Hazra
 
 ## Project overview
 
